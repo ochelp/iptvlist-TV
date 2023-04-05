@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 ,Anhui Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="General",Beijing Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="General",CCTV-1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="Education",CCTV-10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="News",CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV-17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="Business",CCTV-2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="Entertainment",CCTV-3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="General",CCTV-4 Asia
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 group-title="Sports",CCTV-5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="Movies",CCTV-6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="Documentary",CCTV-9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="News",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",CGTN Documentary
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="News",CGTN Spanish
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,Chongqing TV International
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="News",Chuzhou News Channel
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 ,Chuzhou Public Channel
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="Education;Science",Chuzhou Science & Education Channel
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="Business",Dianzhang Finance Channel
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,Dragon TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 ,Dragon TV International
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 ,Fangshan TV
+https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 ,Gansu TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 ,Guangdong Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 ,Guangxi TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 ,Hainan Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 ,Hebei TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="News",Hebi News Channel
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+#EXTINF:-1 ,Heilongjiang TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 ,Hubei Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 ,Hunan TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 ,Jiangsu Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 ,Jiangxi TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 ,Liaoning TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 ,Qinghai TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 ,Shandong TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 ,Shanxi TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 ,Shenzhen Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 ,Sichuan Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 ,SinoVision
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,Tianjin TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 ,Tongzhou TV
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 group-title="Kids",Toonmax TV
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 group-title="General",TV BRICS Chinese
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="Business",Xi'an Business Information Channel
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 ,Xi'an Silk Road Channel
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1 ,Xing Kong International
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 ,Yanbian Satellite TV
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="Kids",Zhejiang Children's Channel
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,Zhejiang Digital Times Channel
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="Business",Zhejiang Economic Channel
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,Zhejiang Minsheng Leisure
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 ,Zhejiang Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
